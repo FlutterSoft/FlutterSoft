@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FlutterSoft?tab=repositories](https://github.com/FlutterSoft?tab=repositories)
 
-- 💬 Ask me about **React, music, cats**
+- 💬 I love talking about about **Tech, Music, Photography**
 
 - 📫 How to reach me **sambrowndev@outlook.com**
 
