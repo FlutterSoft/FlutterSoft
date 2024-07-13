@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A problem solving full-stack developer from QLD, Australia</h3>
 
-- 🔭 I’m currently working on **a React based, complex quote and booking form. It integrates with Google Calendar API to automatically create events in our workplace calendar.**
-
-- 🌱 I’m currently learning React: Redux, Next.js. React is currently my primary focus as I've been deeply enjoying working with it. 
+- 🌱 I’m currently most enjoying working with React, Next.js and MUI.
 
 - 👨‍💻 All of my projects are available at [https://github.com/FlutterSoft?tab=repositories](https://github.com/FlutterSoft?tab=repositories)
 
