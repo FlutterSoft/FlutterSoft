@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently most enjoying working with React, Next.js and MUI.
 
-- 👨‍💻 All of my projects are available at [https://github.com/FlutterSoft?tab=repositories](https://github.com/FlutterSoft?tab=repositories)
-
 - 💬 I love talking about about **Tech, Music, Photography**
 
 - ⚡ Fun fact **I release indie rock music on Spotify/Apple Music!**
