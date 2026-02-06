@@ -7,8 +7,6 @@
 
 - 💬 I love talking about about **Tech, Music, Photography**
 
-- 📫 How to reach me **sambrowndev@outlook.com**
-
 - ⚡ Fun fact **I release indie rock music on Spotify/Apple Music!**
 
 <h3 align="left">Connect with me:</h3>
